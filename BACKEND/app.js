@@ -9,3 +9,4 @@ app.get('/', (req, res) => {
   res.send('HEllo world');
 });
 
+module.exports = app;
